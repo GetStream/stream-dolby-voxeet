@@ -1,0 +1,56 @@
+{
+    "name": "stream-dolby",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@voxeet/react-components": "^0.36.2",
+        "@voxeet/voxeet-web-sdk": "^1.9.6",
+        "animated": "^0.2.2",
+        "axios": "^0.19.0",
+        "formik": "^1.5.8",
+        "keycode": "^2.2.0",
+        "object-path": "^0.11.4",
+        "react": "^16.9.0",
+        "react-dom": "^16.9.0",
+        "react-redux": "5.0.7",
+        "react-router-dom": "^5.0.1",
+        "react-scripts": "3.1.1",
+        "redux": "^4.0.4",
+        "redux-saga": "^1.0.5",
+        "redux-thunk": "^2.3.0",
+        "reselect": "^4.0.0",
+        "shortid": "^2.2.15",
+        "stream-chat": "^1.0.5",
+        "stream-chat-react": "^0.6.21",
+        "styled-components": "^4.3.2",
+        "tinycolor2": "^1.4.1",
+        "yup": "^0.27.0"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": "react-app"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "eslint-config-airbnb-base": "^14.0.0",
+        "eslint-config-prettier": "^6.3.0",
+        "eslint-plugin-prettier": "^3.1.0",
+        "prettier": "^1.18.2"
+    }
+}

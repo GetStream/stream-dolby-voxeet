@@ -1,0 +1,4 @@
+**/*{.,-}min.js
+/.git/
+**/*.sh
+/node_modules/
