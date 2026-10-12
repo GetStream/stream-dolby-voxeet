@@ -1,3 +1,5 @@
+> **This repository is archived and no longer maintained.** For a current alternative, see [the React video calling tutorial](https://getstream.io/video/sdk/react/tutorial/video-calling/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
